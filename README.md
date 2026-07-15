@@ -1,7 +1,7 @@
 # VHDL DMA Controller
 
 > **Course:** VHDL Lab  
-> **Authors:** Oren Nizry (208708784) · Roi Dolev (207252479) · Or Gureli (211571922)  
+> **Authors:** Oren Nizry 
 > **Language:** VHDL (IEEE 1076)  
 > **Toolchain:** Quartus / ModelSim (Altera/Intel)
 
