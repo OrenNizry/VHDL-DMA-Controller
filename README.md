@@ -1,7 +1,7 @@
 # VHDL DMA Controller
 
 > **Course:** VHDL Lab  
-> **Authors:** Oren Nizry 
+> **Authors:** Oren Nizry  
 > **Language:** VHDL (IEEE 1076)  
 > **Toolchain:** Quartus / ModelSim (Altera/Intel)
 
@@ -267,4 +267,4 @@ Therefore both `source_addr` and `dst_addr` increment by **2** after each word t
 | File | Description |
 |---|---|
 | [`DMA_for_test.vhd`](DMA_for_test.vhd) | Full VHDL source — entity + architecture |
-| [`vhdl הגשה (1).docx`](vhdl%20הגשה%20(1).docx) | Original Hebrew submission document |
+| [`vhdl_word.docx`](vhdl%20הגשה%20(1).docx) | Original Hebrew submission document |
